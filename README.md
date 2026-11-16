@@ -1,6 +1,10 @@
 # Lumen Drift
 
-A neon arena survival shooter for the make.fun **best-game-01** bounty. Pilot the last
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/ZulkifliMohamad/lumen-drift/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/ZulkifliMohamad/lumen-drift/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+A neon arena survival shooter for the make.fun **best-game-01** bounty. Entered on [make.fun](https://make.fun/bounty/best-game-01). Pilot the last
 lantern-ship through an endless swarm: thrust with WASD, aim with the mouse, hold click to
 fire, dash through danger, clear each wave, and pick one of three upgrades before the next
 wave hits harder.
